@@ -1,0 +1,36 @@
+[{
+        "id": 1,
+        "name": "Pan Blanco",
+        "description": "Un pan suave y delicioso, perfecto para el desayuno.",
+        "price": 1.50,
+        "image": "https://greens.com.gt/wp-content/uploads/2020/04/Chapata-400x400-2.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pan Integral",
+        "description": "Una opción saludable y rica en fibra.",
+        "price": 2.00,
+        "image": "https://img-global.cpcdn.com/recipes/f947a9548f403c92/400x400cq70/photo.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Pan de Centeno",
+        "description": "Con un sabor único y una textura densa.",
+        "price": 2.50,
+        "image": "https://img-global.cpcdn.com/recipes/33640a8ba1b0cd4d/400x400cq70/photo.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pan de Avena",
+        "description": "El pan perfecto para los amantes de la avena.",
+        "price": 2.00,
+        "image": "https://edyal.es/wp-content/uploads/2023/05/panecillo-avena-1.jpg"
+    },
+    {
+        "id": 100,
+        "name": "Pan Multigrano",
+        "description": "Combinación de varios granos para un sabor completo.",
+        "price": 3.00,
+        "image": "https://mattoni.com.pe/cdn/shop/products/Pan-Multigrano-1-Mattoni_400x.jpg?v=1593121521"
+    }
+]
